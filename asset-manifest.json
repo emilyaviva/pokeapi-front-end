@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pokeapi-front-end/static/css/main.853b68c4.chunk.css",
+    "main.js": "/pokeapi-front-end/static/js/main.0ab5a04b.chunk.js",
+    "main.js.map": "/pokeapi-front-end/static/js/main.0ab5a04b.chunk.js.map",
+    "runtime-main.js": "/pokeapi-front-end/static/js/runtime-main.02f6fd61.js",
+    "runtime-main.js.map": "/pokeapi-front-end/static/js/runtime-main.02f6fd61.js.map",
+    "static/js/2.524dafca.chunk.js": "/pokeapi-front-end/static/js/2.524dafca.chunk.js",
+    "static/js/2.524dafca.chunk.js.map": "/pokeapi-front-end/static/js/2.524dafca.chunk.js.map",
+    "index.html": "/pokeapi-front-end/index.html",
+    "precache-manifest.47a88239c6ee6eb214883f5822bc4c62.js": "/pokeapi-front-end/precache-manifest.47a88239c6ee6eb214883f5822bc4c62.js",
+    "service-worker.js": "/pokeapi-front-end/service-worker.js",
+    "static/css/main.853b68c4.chunk.css.map": "/pokeapi-front-end/static/css/main.853b68c4.chunk.css.map",
+    "static/js/2.524dafca.chunk.js.LICENSE.txt": "/pokeapi-front-end/static/js/2.524dafca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02f6fd61.js",
+    "static/js/2.524dafca.chunk.js",
+    "static/css/main.853b68c4.chunk.css",
+    "static/js/main.0ab5a04b.chunk.js"
+  ]
+}
